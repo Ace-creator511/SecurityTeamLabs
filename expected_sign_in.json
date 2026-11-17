@@ -1,0 +1,7 @@
+{
+  "server": "practice-server",
+  "alert_type": "web sign-in",
+  "time": "12:05 PM",
+  "account": "practice-admin",
+  "expected": true
+}

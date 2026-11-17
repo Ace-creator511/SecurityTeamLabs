@@ -1,0 +1,7 @@
+[
+  {"server": "practice-server", "alert_type": "web sign-in", "failed_attempts": 5},
+  {"server": "practice-server", "alert_type": "web sign-in", "failed_attempts": 7},
+  {"server": "practice-server", "alert_type": "SSH sign-in", "failed_attempts": 8},
+  {"server": "practice-laptop", "alert_type": "web sign-in", "failed_attempts": 6},
+  {"server": "practice-desktop", "alert_type": "web sign-in", "failed_attempts": 4}
+]

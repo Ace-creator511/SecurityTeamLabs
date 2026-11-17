@@ -1,0 +1,5 @@
+/reports/
+/watcher_report.txt
+__pycache__/
+*.bak
+.DS_Store
